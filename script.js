@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   // Typed.js for typing effect
   const options = {
-    strings: ["CTO", "IT Educator", "Certified Robotics Trainer", "Software Developer", "Community Leader"],
+    strings: ["CTO", "IT Educator", "Certified Robotics Trainer", "Software Developer", "Global Community Leader"],
     typeSpeed: 50,
     backSpeed: 30,
     backDelay: 1500,

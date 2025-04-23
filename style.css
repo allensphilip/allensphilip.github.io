@@ -207,8 +207,9 @@ h6 {
 }
 
 .hero-image {
-  position: relative;
+  position: relatve;
   z-index: 1;
+
 }
 
 .tech-circle {
@@ -790,6 +791,7 @@ h6 {
 
   .hero-image {
     margin-top: 50px;
+    
   }
 
   .about-image {
